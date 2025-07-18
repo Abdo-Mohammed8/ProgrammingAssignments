@@ -1,0 +1,14 @@
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\bin\Debug\net8.0\OOP-Task-1.exe
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\bin\Debug\net8.0\OOP-Task-1.deps.json
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\bin\Debug\net8.0\OOP-Task-1.runtimeconfig.json
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\bin\Debug\net8.0\OOP-Task-1.dll
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\bin\Debug\net8.0\OOP-Task-1.pdb
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.dll
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\refint\OOP-Task-1.dll
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.pdb
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\OOP-Task-1.genruntimeconfig.cache
+C:\Users\ostar\Desktop\C#\OOP-Task-1-Solution\OOP-Task-1\obj\Debug\net8.0\ref\OOP-Task-1.dll

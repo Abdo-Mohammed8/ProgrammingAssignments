@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\company\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\company\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\colorchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\colorchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\seasonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\seasonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\oop-task-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\oop-task-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|c:\\users\\ostar\\desktop\\c#\\oop-task-1-solution\\oop-task-1\\company\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFED888-5032-42C2-89E7-E16534C54AC5}|OOP-Task-1\\OOP-Task-1.csproj|solutionrelative:oop-task-1\\company\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OOP-Task-1",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\OOP-Task-1.csproj",
+              "RelativeDocumentMoniker": "OOP-Task-1\\OOP-Task-1.csproj",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\OOP-Task-1.csproj",
+              "RelativeToolTip": "OOP-Task-1\\OOP-Task-1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T16:29:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorChecker.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\ColorChecker.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\ColorChecker.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\ColorChecker.cs",
+              "RelativeToolTip": "OOP-Task-1\\ColorChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:36:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeasonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\SeasonHandler.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\SeasonHandler.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\SeasonHandler.cs",
+              "RelativeToolTip": "OOP-Task-1\\SeasonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:36:02.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Company\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\Company\\Employee.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Company\\Employee.cs",
+              "RelativeToolTip": "OOP-Task-1\\Company\\Employee.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:29:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HireDate.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Company\\HireDate.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\Company\\HireDate.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Company\\HireDate.cs",
+              "RelativeToolTip": "OOP-Task-1\\Company\\HireDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:20:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Point.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\Point.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Point.cs",
+              "RelativeToolTip": "OOP-Task-1\\Point.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:20:04.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Person.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\Person.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Person.cs",
+              "RelativeToolTip": "OOP-Task-1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:09:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP-Task-1\\Program.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\OOP-Task-1-Solution\\OOP-Task-1\\Program.cs",
+              "RelativeToolTip": "OOP-Task-1\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHEAAAD4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:00:39.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
