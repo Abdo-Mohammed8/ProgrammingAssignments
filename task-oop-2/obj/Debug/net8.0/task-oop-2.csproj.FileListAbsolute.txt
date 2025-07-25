@@ -1,0 +1,14 @@
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\bin\Debug\net8.0\task-oop-2.exe
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\bin\Debug\net8.0\task-oop-2.deps.json
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\bin\Debug\net8.0\task-oop-2.runtimeconfig.json
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\bin\Debug\net8.0\task-oop-2.dll
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\bin\Debug\net8.0\task-oop-2.pdb
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.dll
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\refint\task-oop-2.dll
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.pdb
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\task-oop-2.genruntimeconfig.cache
+C:\Users\ostar\Desktop\C#\task-oop-2-solution\task-oop-2\obj\Debug\net8.0\ref\task-oop-2.dll
