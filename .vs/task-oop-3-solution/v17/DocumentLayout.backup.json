@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q03\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q03\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q03\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q03\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q03\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q03\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q03\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q03\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\task-oop-3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\task-oop-3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q02\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q02\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q02\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q02\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q01\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q01\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q01\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q01\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|c:\\users\\ostar\\desktop\\c#\\task-oop-3-solution\\task-oop-3\\q01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D224E97-9F55-4AB7-9761-CFA4D7414CD7}|task-oop-3\\task-oop-3.csproj|solutionrelative:task-oop-3\\q01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\INotificationService.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q03\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\INotificationService.cs",
+              "RelativeToolTip": "task-oop-3\\Q03\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:12:45.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PushNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\PushNotificationService.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q03\\PushNotificationService.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\PushNotificationService.cs",
+              "RelativeToolTip": "task-oop-3\\Q03\\PushNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:12:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q03\\SmsNotificationService.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\SmsNotificationService.cs",
+              "RelativeToolTip": "task-oop-3\\Q03\\SmsNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:11:54.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q03\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q03\\EmailNotificationService.cs",
+              "RelativeToolTip": "task-oop-3\\Q03\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:11:20.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Program.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Program.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Program.cs",
+              "RelativeToolTip": "task-oop-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:47:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q02\\BasicAuthenticationService.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q02\\BasicAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q02\\BasicAuthenticationService.cs",
+              "RelativeToolTip": "task-oop-3\\Q02\\BasicAuthenticationService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:04:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q02\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q02\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q02\\IAuthenticationService.cs",
+              "RelativeToolTip": "task-oop-3\\Q02\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:01:24.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\Rectangle.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q01\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\Rectangle.cs",
+              "RelativeToolTip": "task-oop-3\\Q01\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:57:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\Circle.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q01\\Circle.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\Circle.cs",
+              "RelativeToolTip": "task-oop-3\\Q01\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:57:16.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\IRectangle.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q01\\IRectangle.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\IRectangle.cs",
+              "RelativeToolTip": "task-oop-3\\Q01\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:55:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\ICircle.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q01\\ICircle.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\ICircle.cs",
+              "RelativeToolTip": "task-oop-3\\Q01\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:55:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task-oop-3",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\task-oop-3.csproj",
+              "RelativeDocumentMoniker": "task-oop-3\\task-oop-3.csproj",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\task-oop-3.csproj",
+              "RelativeToolTip": "task-oop-3\\task-oop-3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T19:53:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\IShape.cs",
+              "RelativeDocumentMoniker": "task-oop-3\\Q01\\IShape.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-oop-3-solution\\task-oop-3\\Q01\\IShape.cs",
+              "RelativeToolTip": "task-oop-3\\Q01\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:55:05.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

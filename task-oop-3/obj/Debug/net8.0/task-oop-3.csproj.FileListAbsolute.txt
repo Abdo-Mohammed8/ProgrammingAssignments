@@ -1,0 +1,14 @@
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\bin\Debug\net8.0\task-oop-3.exe
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\bin\Debug\net8.0\task-oop-3.deps.json
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\bin\Debug\net8.0\task-oop-3.runtimeconfig.json
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\bin\Debug\net8.0\task-oop-3.dll
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\bin\Debug\net8.0\task-oop-3.pdb
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.dll
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\refint\task-oop-3.dll
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.pdb
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\task-oop-3.genruntimeconfig.cache
+C:\Users\ostar\Desktop\C#\task-oop-3-solution\task-oop-3\obj\Debug\net8.0\ref\task-oop-3.dll
