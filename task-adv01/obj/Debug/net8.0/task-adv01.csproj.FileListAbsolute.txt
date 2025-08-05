@@ -1,0 +1,14 @@
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\bin\Debug\net8.0\task-adv01.exe
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\bin\Debug\net8.0\task-adv01.deps.json
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\bin\Debug\net8.0\task-adv01.runtimeconfig.json
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\bin\Debug\net8.0\task-adv01.dll
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\bin\Debug\net8.0\task-adv01.pdb
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.dll
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\refint\task-adv01.dll
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.pdb
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\task-adv01.genruntimeconfig.cache
+C:\Users\ostar\Desktop\C#\task-adv01\task-adv01\obj\Debug\net8.0\ref\task-adv01.dll
