@@ -1,0 +1,14 @@
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\bin\Debug\net8.0\task-LINQ01.exe
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\bin\Debug\net8.0\task-LINQ01.deps.json
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\bin\Debug\net8.0\task-LINQ01.runtimeconfig.json
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\bin\Debug\net8.0\task-LINQ01.dll
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\bin\Debug\net8.0\task-LINQ01.pdb
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.dll
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\refint\task-LINQ01.dll
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.pdb
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\task-LINQ01.genruntimeconfig.cache
+C:\Users\ostar\Desktop\C#\task-LINQ01Solution\task-LINQ01\obj\Debug\net8.0\ref\task-LINQ01.dll
