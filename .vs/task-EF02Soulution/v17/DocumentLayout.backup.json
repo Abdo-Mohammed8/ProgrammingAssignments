@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF02.csproj|c:\\users\\ostar\\desktop\\c#\\task-ef02soulution\\task-ef01\\task-ef02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF02.csproj|solutionrelative:task-ef01\\task-ef02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF01.csproj|c:\\users\\ostar\\desktop\\c#\\task-ef02soulution\\task-ef01\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF01.csproj|solutionrelative:task-ef01\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF02.csproj|c:\\users\\ostar\\desktop\\c#\\task-ef02soulution\\task-ef01\\data\\maigrations\\20250909174241_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF02.csproj|solutionrelative:task-ef01\\data\\maigrations\\20250909174241_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Data\\Maigrations\\20250909175220_V02..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task-EF01\\Data\\Maigrations\\20250909175220_V02..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF01.csproj|c:\\users\\ostar\\desktop\\c#\\task-ef02soulution\\task-ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF01.csproj|solutionrelative:task-ef01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF01.csproj|c:\\users\\ostar\\desktop\\c#\\task-ef02soulution\\task-ef01\\dbcreating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B337BC-CD9B-481B-8C6E-69458FCEE1D2}|task-EF01\\task-EF01.csproj|solutionrelative:task-ef01\\dbcreating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250909175220_V02..cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Data\\Maigrations\\20250909175220_V02..cs",
+              "RelativeDocumentMoniker": "task-EF01\\Data\\Maigrations\\20250909175220_V02..cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Data\\Maigrations\\20250909175220_V02..cs",
+              "RelativeToolTip": "task-EF01\\Data\\Maigrations\\20250909175220_V02..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:52:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250909174241_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Data\\Maigrations\\20250909174241_initial.cs",
+              "RelativeDocumentMoniker": "task-EF01\\Data\\Maigrations\\20250909174241_initial.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Data\\Maigrations\\20250909174241_initial.cs",
+              "RelativeToolTip": "task-EF01\\Data\\Maigrations\\20250909174241_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:42:41.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task-EF02",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\task-EF02.csproj",
+              "RelativeDocumentMoniker": "task-EF01\\task-EF02.csproj",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\task-EF02.csproj",
+              "RelativeToolTip": "task-EF01\\task-EF02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T17:36:33.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBcreating.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\DBcreating.cs",
+              "RelativeDocumentMoniker": "task-EF01\\DBcreating.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\DBcreating.cs",
+              "RelativeToolTip": "task-EF01\\DBcreating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:20:45.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tables.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\tables.cs",
+              "RelativeDocumentMoniker": "task-EF01\\tables.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\tables.cs",
+              "RelativeToolTip": "task-EF01\\tables.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T14:09:39.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Program.cs",
+              "RelativeDocumentMoniker": "task-EF01\\Program.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\task-EF02Soulution\\task-EF01\\Program.cs",
+              "RelativeToolTip": "task-EF01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:54:46.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
