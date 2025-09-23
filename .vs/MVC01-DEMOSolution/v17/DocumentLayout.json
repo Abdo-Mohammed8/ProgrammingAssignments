@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|c:\\users\\ostar\\desktop\\c#\\mvc01-demosolution\\mvc01-demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|solutionrelative:mvc01-demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|c:\\users\\ostar\\desktop\\c#\\mvc01-demosolution\\mvc01-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|solutionrelative:mvc01-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|c:\\users\\ostar\\desktop\\c#\\mvc01-demosolution\\mvc01-demo\\controlles\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|solutionrelative:mvc01-demo\\controlles\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|c:\\users\\ostar\\desktop\\c#\\mvc01-demosolution\\mvc01-demo\\controlles\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|solutionrelative:mvc01-demo\\controlles\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|c:\\users\\ostar\\desktop\\c#\\mvc01-demosolution\\mvc01-demo\\mvc01-demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|solutionrelative:mvc01-demo\\mvc01-demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|c:\\users\\ostar\\desktop\\c#\\mvc01-demosolution\\mvc01-demo\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50A5026-0EC6-42DB-B5E3-E32018874092}|MVC01-DEMO\\MVC01-DEMO.csproj|solutionrelative:mvc01-demo\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC01-DEMO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC01-DEMO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T19:52:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Controlles\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC01-DEMO\\Controlles\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Controlles\\HomeController.cs",
+              "RelativeToolTip": "MVC01-DEMO\\Controlles\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:44:42.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Controlles\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVC01-DEMO\\Controlles\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Controlles\\MoviesController.cs",
+              "RelativeToolTip": "MVC01-DEMO\\Controlles\\MoviesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:35:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Program.cs",
+              "RelativeDocumentMoniker": "MVC01-DEMO\\Program.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Program.cs",
+              "RelativeToolTip": "MVC01-DEMO\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:23:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVC01-DEMO\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\Models\\Movie.cs",
+              "RelativeToolTip": "MVC01-DEMO\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:26:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MVC01-DEMO",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\MVC01-DEMO.csproj",
+              "RelativeDocumentMoniker": "MVC01-DEMO\\MVC01-DEMO.csproj",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\MVC01-DEMOSolution\\MVC01-DEMO\\MVC01-DEMO.csproj",
+              "RelativeToolTip": "MVC01-DEMO\\MVC01-DEMO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T18:34:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
