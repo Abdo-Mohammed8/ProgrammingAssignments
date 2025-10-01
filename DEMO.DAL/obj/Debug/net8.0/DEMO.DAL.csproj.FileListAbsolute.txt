@@ -1,0 +1,13 @@
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.csproj.AssemblyReference.cache
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.sourcelink.json
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\bin\Debug\net8.0\DEMO.DAL.deps.json
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\bin\Debug\net8.0\DEMO.DAL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\bin\Debug\net8.0\DEMO.DAL.pdb
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\refint\DEMO.DAL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\DEMO.DAL.pdb
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.DAL\obj\Debug\net8.0\ref\DEMO.DAL.dll

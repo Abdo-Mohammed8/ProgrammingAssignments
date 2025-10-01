@@ -1,0 +1,16 @@
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.csproj.AssemblyReference.cache
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.sourcelink.json
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\bin\Debug\net8.0\DEMO.BLL.deps.json
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\bin\Debug\net8.0\DEMO.BLL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\bin\Debug\net8.0\DEMO.BLL.pdb
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\bin\Debug\net8.0\DEMO.DAL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\bin\Debug\net8.0\DEMO.DAL.pdb
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.csproj.Up2Date
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\refint\DEMO.BLL.dll
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\DEMO.BLL.pdb
+C:\Users\ostar\Desktop\C#\DEMOSolution\DEMO.PLL\obj\Debug\net8.0\ref\DEMO.BLL.dll

@@ -1,4 +1,6 @@
+using DEMO.BLL;
 using DEMO.DAL.Data.Contexts;
+using DEMO.DAL.Repositories.Repos;
 using Microsoft.EntityFrameworkCore;
 
 namespace DEMO.PL
@@ -15,10 +17,14 @@ namespace DEMO.PL
 
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
             {
-                var conString = builder.Configuration["ConnectionStrings:DefulatConnection"];
+                var conString = builder.Configuration.GetConnectionString("DefaultConnection");
+                options.UseSqlServer(conString);
                 //var conString = builder.Configuration.GetSection("ConnectionStrings")["DefulatConnection"];
                 //var conString = builder.Configuration.GetConnectionString("DefulatConnection"];
             });
+
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 
             var app = builder.Build();
 

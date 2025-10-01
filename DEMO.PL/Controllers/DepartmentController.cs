@@ -3,17 +3,14 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DEMO.PL.Controllers
 {
-    public class DepartmentController : Controller
+    public class DepartmentController(IDepartmentService _departmentService) : Controller
     {
-        public DepartmentController(DepartmentService departmentService) // call service
-        {
-            
-        } // ask CLR create object from departmentService
 
-
+        [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            var departments = _departmentService.GetAllDepartments();
+            return View(departments);
         }
     }
 }

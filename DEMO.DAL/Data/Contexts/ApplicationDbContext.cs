@@ -7,7 +7,7 @@ namespace DEMO.DAL.Data.Contexts
     {
         public DbSet<Department> Departments { get; set; }
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {// ask CLR inject ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
 
         }
