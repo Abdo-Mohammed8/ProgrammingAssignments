@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CCA994-8D29-4DEC-AE53-30FCAF231508}|DEMO.PLL\\DEMO.BLL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CCA994-8D29-4DEC-AE53-30FCAF231508}|DEMO.PLL\\DEMO.BLL.csproj|solutionrelative:demo.pll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CreatedDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
+              "RelativeDocumentMoniker": "DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
+              "RelativeToolTip": "DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:22:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "DEMO.PL\\Views\\Department\\Index.cshtml",
               "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Index.cshtml",
               "RelativeToolTip": "DEMO.PL\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T20:22:32.91Z",
               "EditorCaption": ""
@@ -36,14 +61,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAPAQAAAAAAAA==",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DEMO.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DEMO.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:15:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\details.cshtml",
+              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Department\\details.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\details.cshtml",
+              "RelativeToolTip": "DEMO.PL\\Views\\Department\\details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T20:19:40.229Z",
+              "WhenOpened": "2025-10-07T18:04:22.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "DEMO.PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T17:20:44.748Z",
               "EditorCaption": ""
             }
           ]
