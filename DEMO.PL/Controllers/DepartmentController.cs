@@ -1,6 +1,6 @@
 ﻿using AspNetCoreGeneratedDocument;
-using DEMO.BLL;
-using DEMO.BLL.DTOs;
+using DEMO.BLL.DTOs.DepartmentDtos;
+using DEMO.BLL.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;

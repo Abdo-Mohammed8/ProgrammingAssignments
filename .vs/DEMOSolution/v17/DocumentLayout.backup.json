@@ -3,92 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\account\\resetpasswordlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\account\\resetpasswordlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\viewmodels\\identityviewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\utilities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\utilities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\utilities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\utilities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\viewmodels\\identityviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\viewmodels\\identityviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\wwwroot\\css\\authstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\wwwroot\\css\\authstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697330DF-CC0A-4F5F-A4F2-1C326456609E}|DEMO.DAL\\DEMO.DAL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697330DF-CC0A-4F5F-A4F2-1C326456609E}|DEMO.DAL\\DEMO.DAL.csproj|solutionrelative:demo.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Data\\Migrations\\20251021151122_addIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DEMO.DAL\\Data\\Migrations\\20251021151122_addIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697330DF-CC0A-4F5F-A4F2-1C326456609E}|DEMO.DAL\\DEMO.DAL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697330DF-CC0A-4F5F-A4F2-1C326456609E}|DEMO.DAL\\DEMO.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697330DF-CC0A-4F5F-A4F2-1C326456609E}|DEMO.DAL\\DEMO.DAL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{697330DF-CC0A-4F5F-A4F2-1C326456609E}|DEMO.DAL\\DEMO.DAL.csproj|solutionrelative:demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10CCA994-8D29-4DEC-AE53-30FCAF231508}|DEMO.PLL\\DEMO.BLL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10CCA994-8D29-4DEC-AE53-30FCAF231508}|DEMO.PLL\\DEMO.BLL.csproj|solutionrelative:demo.pll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|c:\\users\\ostar\\desktop\\c#\\demosolution\\demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9EE2137-5B35-4943-8C38-F5FC4D2BAC61}|DEMO.PL\\DEMO.PL.csproj|solutionrelative:demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,292 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResetPasswordLink.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\ResetPasswordLink.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Account\\ResetPasswordLink.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\ResetPasswordLink.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Account\\ResetPasswordLink.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T19:29:45.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "DEMO.PL\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "DEMO.PL\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "DEMO.PL\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "DEMO.PL\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:25:15.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResetPasswordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "DEMO.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
-              "RelativeToolTip": "DEMO.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:30:16.83Z",
+              "WhenOpened": "2025-10-23T19:29:31.89Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmailSettings.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Utilities\\EmailSettings.cs",
-              "RelativeDocumentMoniker": "DEMO.PL\\Utilities\\EmailSettings.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Utilities\\EmailSettings.cs",
-              "RelativeToolTip": "DEMO.PL\\Utilities\\EmailSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:31:25.295Z",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DEMO.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DEMO.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T20:18:43.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Utilities\\Email.cs",
-              "RelativeDocumentMoniker": "DEMO.PL\\Utilities\\Email.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Utilities\\Email.cs",
-              "RelativeToolTip": "DEMO.PL\\Utilities\\Email.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T17:22:46.227Z",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "DEMO.PL\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T20:16:42.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "DEMO.PL\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T20:02:39.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ForgetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Account\\ForgetPassword.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Account\\ForgetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T17:16:54.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "DEMO.PL\\Controllers\\DepartmentController.cs",
               "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "DEMO.PL\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T17:15:41.789Z",
+              "WhenOpened": "2025-10-23T19:46:31.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "DEMO.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "DEMO.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:29:45.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\details.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Department\\details.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\details.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Department\\details.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T18:04:22.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "DEMO.PL\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T17:20:44.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_AuthLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Shared\\_AuthLayout.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Shared\\_AuthLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T15:18:57.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "DEMO.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "DEMO.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:20:15.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T16:19:12.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T16:25:31.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T20:22:32.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "DEMO.PL\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "DEMO.PL\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T15:26:31.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AuthStyle.css",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\wwwroot\\css\\AuthStyle.css",
-              "RelativeDocumentMoniker": "DEMO.PL\\wwwroot\\css\\AuthStyle.css",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PL\\wwwroot\\css\\AuthStyle.css",
-              "RelativeToolTip": "DEMO.PL\\wwwroot\\css\\AuthStyle.css",
-              "ViewState": "AgIAANkCAAAAAAAAAAAowPsCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-21T15:22:21.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20251021151122_addIdentityTables.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Data\\Migrations\\20251021151122_addIdentityTables.cs",
-              "RelativeDocumentMoniker": "DEMO.DAL\\Data\\Migrations\\20251021151122_addIdentityTables.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Data\\Migrations\\20251021151122_addIdentityTables.cs",
-              "RelativeToolTip": "DEMO.DAL\\Data\\Migrations\\20251021151122_addIdentityTables.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:11:23.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "DEMO.DAL\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "DEMO.DAL\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T15:03:26.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DEMO.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DEMO.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T14:56:48.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DEMO.DAL",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\DEMO.DAL.csproj",
-              "RelativeDocumentMoniker": "DEMO.DAL\\DEMO.DAL.csproj",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.DAL\\DEMO.DAL.csproj",
-              "RelativeToolTip": "DEMO.DAL\\DEMO.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-21T14:53:11.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CreatedDepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
-              "RelativeDocumentMoniker": "DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
-              "ToolTip": "C:\\Users\\ostar\\Desktop\\C#\\DEMOSolution\\DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
-              "RelativeToolTip": "DEMO.PLL\\DTOs\\CreatedDepartmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T17:22:20.812Z",
+              "WhenOpened": "2025-10-23T19:30:27.406Z",
               "EditorCaption": ""
             }
           ]

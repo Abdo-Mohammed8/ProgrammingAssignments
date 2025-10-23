@@ -1,5 +1,5 @@
-﻿using DEMO.BLL.DTOs;
-using DEMO.DAL.Models;
+﻿using DEMO.BLL.DTOs.DepartmentDtos;
+using DEMO.DAL.Models.DepartmentModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;

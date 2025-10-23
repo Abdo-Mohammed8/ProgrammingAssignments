@@ -1,4 +1,4 @@
-﻿using DEMO.DAL.Models;
+﻿using DEMO.DAL.Models.ApplicationUser;
 using DEMO.PL.Utilities;
 using DEMO.PL.ViewModels.IdentityViewModels;
 using Microsoft.AspNetCore.Identity;

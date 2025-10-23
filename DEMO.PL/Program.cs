@@ -1,6 +1,9 @@
-using DEMO.BLL;
+using DEMO.BLL.MappingProfile;
+using DEMO.BLL.Services.Classes;
+using DEMO.BLL.Services.Interfaces;
 using DEMO.DAL.Data.Contexts;
-using DEMO.DAL.Models;
+using DEMO.DAL.Models.ApplicationUser;
+using DEMO.DAL.Repositories.IRepos;
 using DEMO.DAL.Repositories.Repos;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -28,6 +31,13 @@ namespace DEMO.PL
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 
+            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IEmployeeServices, EmployeeService>();
+
+            //builder.Services.AddAutoMapper(typeof(MappingProfiles).Assembly); //xxxxxx
+            builder.Services.AddAutoMapper(m=>m.AddProfile(new MappingProfiles()));
+
+
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {
 
@@ -53,7 +63,7 @@ namespace DEMO.PL
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Account}/{action=Register}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }
