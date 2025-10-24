@@ -1,0 +1,17 @@
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\PeresentationLayer.deps.json
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\PeresentationLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\PeresentationLayer.pdb
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\Shared.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\bin\Debug\net8.0\Shared.pdb
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\Peresent.CAE54BF6.Up2Date
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\refint\PeresentationLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\PeresentationLayer.pdb
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Infrastructure\PeresentationLayer\obj\Debug\net8.0\ref\PeresentationLayer.dll
