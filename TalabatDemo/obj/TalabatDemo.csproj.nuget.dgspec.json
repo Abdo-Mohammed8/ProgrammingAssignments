@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj": {}
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\TalabatDemo\\TalabatDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
         "projectName": "ServiceAbstractionLayer",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Shared\\Shared.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Shared\\Shared.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServicesLayer\\ServicesLayer.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\ServicesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServicesLayer\\ServicesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\ServicesLayer.csproj",
         "projectName": "ServicesLayer",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServicesLayer\\ServicesLayer.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\ServicesLayer.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServicesLayer\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,11 +166,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj"
               }
             }
           }
@@ -190,6 +190,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -210,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj",
         "projectName": "PeresentationLayer",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PeresentationLayer\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PeresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -238,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj"
               }
             }
           }
@@ -279,14 +285,14 @@
         }
       }
     },
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj",
         "projectName": "PersistenceLayer",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PersistenceLayer\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PersistenceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -307,8 +313,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServicesLayer\\ServicesLayer.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Core\\ServicesLayer\\ServicesLayer.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\ServicesLayer.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\ServicesLayer.csproj"
               }
             }
           }
@@ -354,14 +360,14 @@
         }
       }
     },
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Shared\\Shared.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -419,14 +425,14 @@
         }
       }
     },
-    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj": {
+    "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\TalabatDemo\\TalabatDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj",
+        "projectUniqueName": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\TalabatDemo\\TalabatDemo.csproj",
         "projectName": "TalabatDemo",
-        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj",
+        "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\TalabatDemo\\TalabatDemo.csproj",
         "packagesPath": "C:\\Users\\ostar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\TalabatDemo\\obj\\",
+        "outputPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\TalabatDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -447,11 +453,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PeresentationLayer\\PeresentationLayer.csproj"
               },
-              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj": {
-                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj"
+              "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj": {
+                "projectPath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj"
               }
             }
           }

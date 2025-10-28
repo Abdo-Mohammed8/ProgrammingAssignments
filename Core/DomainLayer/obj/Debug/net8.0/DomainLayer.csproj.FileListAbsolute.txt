@@ -9,3 +9,15 @@ C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\
 C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 C:\Users\ostar\Desktop\C#\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
