@@ -315,3 +315,5 @@ C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\TalabatDemo\obj\Debug\net8.
 C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\TalabatDemo\obj\Debug\net8.0\TalabatDemo.pdb
 C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\TalabatDemo\obj\Debug\net8.0\TalabatDemo.genruntimeconfig.cache
 C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\TalabatDemo\obj\Debug\net8.0\ref\TalabatDemo.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\TalabatDemo\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ostar\Desktop\C#\TalabatDemoSolution - Copy\TalabatDemo\bin\Debug\net8.0\TalabatDemo.staticwebassets.runtime.json

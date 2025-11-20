@@ -1,0 +1,18 @@
+﻿@PeresentationLayer_HostAddress = 
+
+@id=0
+GET {{PeresentationLayer_HostAddress}}/api/Product/{{id}}
+
+###
+
+GET {{PeresentationLayer_HostAddress}}/api/Product/types
+
+###
+
+GET {{PeresentationLayer_HostAddress}}/api/Product/brands
+
+###
+
+GET {{PeresentationLayer_HostAddress}}/api/Product
+
+###

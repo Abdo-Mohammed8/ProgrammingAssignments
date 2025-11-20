@@ -15,7 +15,7 @@ namespace Shared.DTOs
         public string Description { get; set; } = null!;
 
 
-        public string ProductUrl { get; set; } = null!;
+        public string PictureUrl { get; set; } = null!;
 
         public decimal Price { get; set; }
 

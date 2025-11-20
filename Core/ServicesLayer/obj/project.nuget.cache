@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "utSLvrak1hQ=",
+  "dgSpecHash": "jV7nWZnRgY4=",
   "success": true,
   "projectFilePath": "C:\\Users\\ostar\\Desktop\\C#\\TalabatDemoSolution - Copy\\Core\\ServicesLayer\\ServicesLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ostar\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
+    "C:\\Users\\ostar\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\ostar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ostar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ostar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ostar\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
